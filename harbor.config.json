@@ -1,0 +1,1 @@
+{"config":{"name":"harbor-test-one"},"chains":[{"chain":"ethereum","config":{"artifactsPath":"./artifacts","deploy":"./scripts/deploy.ts"},"smartContracts":[{"name":"Lock","fileName":""}]}],"offChainActors":[{"dockerfile":"","buildPath":"","name":"test","port":3001}]}
